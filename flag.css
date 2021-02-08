@@ -1,0 +1,17 @@
+.green{
+  width: 200px;
+  height: 100px;
+  background-color: green;
+margin: 200px auto;
+padding: 10px 20px;
+  
+}
+.red{
+  width: 100px;
+  height: 100px;
+  background-color:red;
+margin: auto;
+border-radius: 50%;
+
+  
+}
